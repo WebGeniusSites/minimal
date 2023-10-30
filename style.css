@@ -233,7 +233,7 @@ h3 {
 }
 
 .card:hover {
-  background: linear-gradient(45deg, red, orange, yellow);
+  background: linear-gradient(15deg, red, orange, yellow);
   color: black;
   border: th;
   
