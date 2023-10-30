@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet');
 
 body {
-  width: 100%;
+  width: 100%; 
 }
 
 :root {
@@ -145,6 +145,7 @@ h3 {
   position: center;
   align-items: space-around;
   justify-content: center;
+  font-family: 'Futura';
 }
 
 .social-media a {
