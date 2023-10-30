@@ -486,7 +486,7 @@ h1 {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  text-align: left;
+  text-align: center;
   color: var(--main-fonts-color);
 
 }
@@ -512,4 +512,5 @@ h1 {
 
 .contact-text {
   padding: 50px;
+  text-align: center;
 }
